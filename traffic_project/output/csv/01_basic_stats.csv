@@ -1,0 +1,10 @@
+Response code
+metric	value
+total_records	5544000
+total_blocks	75
+avg_speed	36.9
+avg_exponent	2.65
+max_speed	124.0
+min_speed	1.0
+median_speed	36.0
+p95_speed	55.0
